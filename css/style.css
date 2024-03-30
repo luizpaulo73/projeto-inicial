@@ -83,3 +83,9 @@ p{
     background-color: blue;
     color: white;
 }
+
+.rodape{
+    border-width: 2px;
+    border-color: red;
+    border-style: solid;
+}
