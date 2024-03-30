@@ -67,3 +67,10 @@
 .conteudo{
     line-height: 1.5;
 }
+
+form{
+    border-width: 1px;
+    border-style: solid;
+    border-color: gray;
+    padding: 10px;
+}
